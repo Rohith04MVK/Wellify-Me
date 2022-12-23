@@ -7,6 +7,7 @@ A well being app with a brain
 
 # Technologies Used
 - Python
-- FLask
-- Paddle OCR [https://pypi.org/project/paddleocr/]
-- FER [https://pypi.org/project/fer/]
+- Flask
+- [Paddle OCR](https://pypi.org/project/paddleocr/)
+- [FER](https://pypi.org/project/fer/)
+- [Tailwind](https://tailwindcss.com/)

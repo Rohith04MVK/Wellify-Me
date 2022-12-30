@@ -1,9 +1,9 @@
 # Wellify-Me
 A well being app with a brain
-- Mood Based Song recommendation
-- Medicine name detetction from image 
-- Journal Keeping
-- Medical Record Storing
+- Mood Based Song recommendation 🎧
+- Medicine name detetction from image 💊
+- Journal Keeping 📝
+- Medical Record Storing 
 
 # Technologies Used
 - Python
